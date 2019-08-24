@@ -2,7 +2,7 @@ package a;
 import java.sql.*;
 import a.customer2;
 public class LoginDao {
-	
+//emmm
 public int Login(customer2 a) {
 	String uname="root";
 	String upwd="123456";
