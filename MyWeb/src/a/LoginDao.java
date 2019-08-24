@@ -1,8 +1,13 @@
 package a;
 import java.sql.*;
 import a.customer2;
+<<<<<<< HEAD
 public class LoginDao {
 //emmmm
+=======
+public class LoginDao {
+//emm
+>>>>>>> branch 'master' of https://github.com/gintama1/Remote.git
 public int Login(customer2 a) {
 	String uname="root";
 	String upwd="123456";
